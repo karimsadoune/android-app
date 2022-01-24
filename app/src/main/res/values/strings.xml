@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Francais</string>
+    <string-array name="jour">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="mois">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="annee">
+        <item>1991</item>
+        <item>1999</item>
+    </string-array>
+    <string name="usr_name">nom</string>
+    <string name="usr_l_name">prenom</string>
+    <string name="usr_email">email</string>
+    <string name="usr_db">date de naissance</string>
+    <string name="usr_sex">sexe</string>
+    <string name="usr_city">ville</string>
+    <string name="usr_interet">interet</string>
+    <string name="title">Saisir vos information</string>
+    <string name="btn">Enregistrer</string>
+</resources>
